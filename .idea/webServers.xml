@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c414d638-46c2-45a0-93ab-4ff8f4dfc635" name="nesin2019">
+        <fileTransfer rootFolder="/home/nesin.co.kr/docs" accessType="SFTP" host="211.43.210.63" port="22" sshConfigId="477cad8a-8f73-4201-9ffc-20bf9e82732d" sshConfig="nesin2019">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
