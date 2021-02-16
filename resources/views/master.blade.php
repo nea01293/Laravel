@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="kr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -8,6 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-{{$aa}}
+    <p>Title</p>
+    @yield('content')
+
 </body>
+    @include('footer')
 </html>

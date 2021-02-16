@@ -15,7 +15,27 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07aa9da6-b0f3-4cc6-bc6c-f77291eddd5b" name="Default Changelist" comment="" />
+    <list default="true" id="07aa9da6-b0f3-4cc6-bc6c-f77291eddd5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Author.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2021_02_15_012501_create_posts_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2021_02_15_012506_create_authors_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/test.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/minho.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/minho.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/CreatesApplication.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/CreatesApplication.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,14 +144,23 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.2021_02_15_012501_create_posts_table.php">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" scope="XML" />
       <method v="2" />
     </configuration>
+    <configuration name="2021_02_15_012501_create_posts_table.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/database/migrations/2021_02_15_012501_create_posts_table.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.2021_02_15_012501_create_posts_table.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -146,7 +175,16 @@
       <workItem from="1611194547608" duration="6261000" />
       <workItem from="1611206424599" duration="143000" />
       <workItem from="1611206585316" duration="145000" />
-      <workItem from="1611206748429" duration="24000" />
+      <workItem from="1611206748429" duration="786000" />
+      <workItem from="1611273756640" duration="1929000" />
+      <workItem from="1612248086351" duration="2727000" />
+      <workItem from="1612316121193" duration="1193000" />
+      <workItem from="1612400197647" duration="4668000" />
+      <workItem from="1612483533928" duration="595000" />
+      <workItem from="1612845853431" duration="6731000" />
+      <workItem from="1613346628680" duration="3677000" />
+      <workItem from="1613439527845" duration="929000" />
+      <workItem from="1613440480940" duration="12643000" />
     </task>
     <task id="LOCAL-00001" summary="TEST 1">
       <created>1611197403091</created>
@@ -197,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611206457582</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="TEST 11">
+      <created>1611206840774</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611206840774</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +276,8 @@
     <MESSAGE value="TEST 22" />
     <MESSAGE value="TEST 33" />
     <MESSAGE value="TEST 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="TEST 1" />
+    <MESSAGE value="TEST 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="TEST 11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="698" y="345" key="#Notifications" timestamp="1611194734654">
@@ -250,10 +296,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606809255329" />
-    <state x="549" y="89" key="CommitChangelistDialog2" timestamp="1611206455611">
+    <state x="705" y="367" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1613440372189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="549" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611206455611" />
+    <state x="705" y="367" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1613440372189" />
+    <state x="549" y="89" key="CommitChangelistDialog2" timestamp="1611206838366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611206838366" />
     <state x="177" y="86" width="1536" height="860" key="DiffContextDialog" timestamp="1611206398552">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -266,42 +316,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="778" y="441" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611204445839" />
-    <state width="939" height="282" key="GridCell.Tab.0.bottom" timestamp="1606811249457">
+    <state width="939" height="279" key="GridCell.Tab.0.bottom" timestamp="1613455275901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="939" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606811249457" />
-    <state width="939" height="282" key="GridCell.Tab.0.center" timestamp="1606811249457">
+    <state width="939" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613455275901" />
+    <state width="939" height="279" key="GridCell.Tab.0.center" timestamp="1613455275901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="939" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606811249457" />
-    <state width="939" height="282" key="GridCell.Tab.0.left" timestamp="1606811249457">
+    <state width="939" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613455275901" />
+    <state width="939" height="279" key="GridCell.Tab.0.left" timestamp="1613455275901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="939" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606811249457" />
-    <state width="939" height="282" key="GridCell.Tab.0.right" timestamp="1606811249457">
+    <state width="939" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613455275901" />
+    <state width="939" height="279" key="GridCell.Tab.0.right" timestamp="1613455275901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="939" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606811249457" />
-    <state x="787" y="443" key="NewPhpFileDialog" timestamp="1611204337053">
+    <state width="939" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613455275901" />
+    <state x="787" y="443" key="NewPhpFileDialog" timestamp="1612857047781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="787" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611204337053" />
+    <state x="787" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612857047781" />
     <state x="812" y="223" key="RollbackChangesDialog" timestamp="1611206232199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="812" y="223" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611206232199" />
-    <state x="498" y="166" key="SettingsEditor" timestamp="1611206661071">
+    <state x="498" y="166" key="SettingsEditor" timestamp="1613440464310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="498" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611206661071" />
+    <state x="498" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613440464310" />
     <state width="498" height="398" key="SwitcherDM" timestamp="1606808448320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1606808448320" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611206566922">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611206880766">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611206566922" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611206880766" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611195967978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
