@@ -1,9 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Controllers\IndexController;
 
-Route::get('/',[IndexController::class,'index']);
+
+Route::get('/','IndexController@index');
 
 Route::any("minho/{aa?}/{bb?}/{cc?}",function ($aa,$bb,$cc){
 

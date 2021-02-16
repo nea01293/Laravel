@@ -16,25 +16,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07aa9da6-b0f3-4cc6-bc6c-f77291eddd5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Author.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2021_02_15_012501_create_posts_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2021_02_15_012506_create_authors_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/master.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/test.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/minho.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/minho.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/CreatesApplication.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/CreatesApplication.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +166,7 @@
       <workItem from="1612845853431" duration="6731000" />
       <workItem from="1613346628680" duration="3677000" />
       <workItem from="1613439527845" duration="929000" />
-      <workItem from="1613440480940" duration="12643000" />
+      <workItem from="1613440480940" duration="12804000" />
     </task>
     <task id="LOCAL-00001" summary="TEST 1">
       <created>1611197403091</created>
@@ -242,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611206840774</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="TEST 11">
+      <created>1613460560860</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613460560860</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,10 +289,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="705" y="367" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1613440372189" />
-    <state x="549" y="89" key="CommitChangelistDialog2" timestamp="1611206838366">
+    <state x="549" y="89" key="CommitChangelistDialog2" timestamp="1613460558972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="549" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611206838366" />
+    <state x="549" y="89" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613460558972" />
     <state x="177" y="86" width="1536" height="860" key="DiffContextDialog" timestamp="1611206398552">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -348,10 +337,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1606808448320" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611206880766">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1613460578880">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611206880766" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613460578880" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611195967978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
